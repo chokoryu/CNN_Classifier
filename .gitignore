@@ -1,0 +1,19 @@
+# Files
+anaconda_env.txt
+getKeys.py
+fruits_aug.npy
+fuits_cnn.h5
+Untitled.ipynb
+
+# Directories
+.ipynb_checkpoints/
+.vscode/
+apple/
+boar/
+brow/
+crow/
+grape/
+lemon/
+monkey/
+sample_source/
+submit/
